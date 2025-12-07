@@ -1,0 +1,13 @@
+---
+title: "About"
+---
+
+[Curriculum Vitae](resume.pdf) [Github](https://github.com/jlucla/) [Email](joeyl%5Bat%5Ducla%5Bdot%5Dedu)
+
+![](images/bruincard_photo.jpg){width="300"}
+
+```{r}
+
+```
+
+I am a 4th-year student at UCLA, majoring Statistics and Data Science with a minor in Anthropology. I will graduate in March 2026.

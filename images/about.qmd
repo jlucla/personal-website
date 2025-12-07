@@ -1,0 +1,10 @@
+---
+title: "About"
+---
+
+About this site
+
+\![\](images/bruincard_photo.jpg)
+
+```{r}
+```

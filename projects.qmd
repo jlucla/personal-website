@@ -1,0 +1,27 @@
+---
+title: "Projects"
+---
+
+::: card
+### Skin Cancer Status Prediction (Fall 2025)
+
+Using a synthetic skin cancer dataset, this projects is an attempt to build a classification model to reliably predict whether a lesion is benign or malignant using tabular patient features.
+
+### [Slide Presentation](skincancerslides.pdf)
+
+###  [Report](skincancerreport.pdf)
+:::
+
+::: card
+### The Effect of Exercise Intensity on Mood States (Spring 2025)
+
+### [Slide Presentation](moodexerciseslides.pdf)
+
+###  [Report](moodexercise.pdf)
+:::
+
+::: card
+### Predicting Austin Housing Prices (Winter 2024)
+
+###  [Report](austinhousing.pdf)
+:::

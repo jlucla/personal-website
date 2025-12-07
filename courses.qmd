@@ -1,0 +1,29 @@
+---
+title: "Courses"
+---
+
+-   Multivariable Calculus
+
+-   Linear Algebra
+
+-   Programming with R
+
+-   Introduction to Probability
+
+-   Introduction to Mathematical Statistics
+
+-   Linear Models
+
+-   Introduction to Data Analysis and Regression
+
+-   Introduction to Design and Analysis of Experiments
+
+-   Introduction to Statistical Models and Data Mining
+
+-   Introduction to Computational Statistics
+
+-   Introduction to Computation and Optimization for Statistics
+
+-   Introduction to Monte Carlo Methods
+
+-   Practice of Statistical Consulting
